@@ -1,6 +1,6 @@
 # Find Someone Who: Visual Commonsense Understanding in Human-Centric Grounding
 
-[Haoxuan You*](https://hxyou.github.io/), [Rui Sun*](https://threesr.github.io/), [Zhecan Wang](https://www.zhecanwang.com/), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
+[Haoxuan You](https://hxyou.github.io/), [Rui Sun*](https://threesr.github.io/), [Zhecan Wang*](https://www.zhecanwang.com/), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
 
 [*: equal contribution]
 
